@@ -1,0 +1,22 @@
+TY  - JOUR
+T1  - IEEE 754 floating-point addition for neuromorphic architecture
+AU  - George, Arun M.
+AU  - Sharma, Rahul
+AU  - Rao, Shrisha
+JO  - Neurocomputing
+VL  - 366
+SP  - 74
+EP  - 85
+PY  - 2019
+DA  - 2019/11/13/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2019.05.093
+UR  - https://www.sciencedirect.com/science/article/pii/S0925231219308884
+KW  - Neuromorphic computing
+KW  - Neuromorphic architecture
+KW  - Floating-point arithmetic
+KW  - IEEE 754
+KW  - Nengo
+KW  - Neural engineering framework
+AB  - Neuromorphic computing is looked at as one of the promising alternatives to the traditional von Neumann architecture. In this paper, we consider the problem of doing arithmetic on neuromorphic systems and propose an architecture for doing IEEE 754 compliant addition on a neuromorphic system. A novel encoding scheme is also proposed for reducing the inter-neural ensemble error. The complex task of floating point addition is divided into sub-tasks such as exponent alignment, mantissa addition and overflow-underflow handling. We use a cascaded approach to add the two mantissas of the given floating-point numbers and then apply our encoding scheme to reduce the error produced in this approach. Overflow and underflow are handled by approximating on XOR logic. Implementation of sub-components like right shifter and multiplexer are also specified.
+ER  - 

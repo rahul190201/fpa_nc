@@ -1,0 +1,11 @@
+Arun M. George, Rahul Sharma, Shrisha Rao,
+IEEE 754 floating-point addition for neuromorphic architecture,
+Neurocomputing,
+Volume 366,
+2019,
+Pages 74-85,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2019.05.093.
+(https://www.sciencedirect.com/science/article/pii/S0925231219308884)
+Abstract: Neuromorphic computing is looked at as one of the promising alternatives to the traditional von Neumann architecture. In this paper, we consider the problem of doing arithmetic on neuromorphic systems and propose an architecture for doing IEEE 754 compliant addition on a neuromorphic system. A novel encoding scheme is also proposed for reducing the inter-neural ensemble error. The complex task of floating point addition is divided into sub-tasks such as exponent alignment, mantissa addition and overflow-underflow handling. We use a cascaded approach to add the two mantissas of the given floating-point numbers and then apply our encoding scheme to reduce the error produced in this approach. Overflow and underflow are handled by approximating on XOR logic. Implementation of sub-components like right shifter and multiplexer are also specified.
+Keywords: Neuromorphic computing; Neuromorphic architecture; Floating-point arithmetic; IEEE 754; Nengo; Neural engineering framework

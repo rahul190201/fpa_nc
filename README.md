@@ -6,4 +6,6 @@ Neuromorphic computing is looked at as one of the promising alternatives to the 
 
 Link to full paper: https://doi.org/10.1016/j.neucom.2019.05.093
 
-**Note:** Source code is available for usage under GNU GPL v. 3
+**Copyright terms:** Source code is available for usage under GNU GPL v. 3
+
+Citations available in [RIS](https://github.com/rahul190201/fpa_nc/blob/main/citation.ris), [BibTeX](https://github.com/rahul190201/fpa_nc/blob/main/citation.bib), [text](https://github.com/rahul190201/fpa_nc/blob/main/citation.txt)
